@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of sijad/flarum-ext-recaptcha.** Not for installation: use [Packagist](https://packagist.org/packages/sijad/flarum-ext-recaptcha) or the [upstream repository](https://github.com/sijad/flarum-ext-recaptcha).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/sijad-flarum-ext-recaptcha/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/sijad-flarum-ext-recaptcha/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2016-09-06 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/sijad-flarum-ext-recaptcha/tree/archive/v0.0.1) |
+| `0.0.2` | 2016-11-17 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/sijad-flarum-ext-recaptcha/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/sijad-flarum-ext-recaptcha.json](https://github.com/flarchive/archive-index/blob/main/packages/sijad-flarum-ext-recaptcha.json)
 
